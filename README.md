@@ -6,13 +6,24 @@ This repository hosts the documentation for the HiLew Trading Application.
 * Real Time Trading
 * Short Term vs. Long Term Feedback
 
-0. Before
+
+## 0. Before
   * Data Collection
+    * Stock data
+      * Daily closing prices
   * UI/UX Design and Implementation
+    * Decide on front-end framework
+      * **React**
+      * Angular
+      * Vue
+      * Ember
+      * Backbone
   * Server Deployment
-  * Frameworks and Databases
-  
-1. Simulated Trading
+    * Database types
+    * Number of databases
+
+
+## 1. Simulated Trading
 _This portion of the project will lay the foundation for other **Main Ideas**. The final product will serve as a Day Trader simulator._
 * Bring data from server to front end
   * Plot data
