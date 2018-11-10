@@ -1,4 +1,4 @@
-# Documentation
+# _Documentation_
 This repository hosts the documentation for the HiLew Trading Application.
 
 # Main Ideas
